@@ -2,11 +2,5 @@ import { Button } from "@/components/ui/button";
 import Image from "next/image";
 
 export default function Home() {
-  return (
-    <main className="">
-      AIRBNB
-      
-      <Button className="">NCP</Button>
-    </main>
-  );
+  return <main className=""></main>;
 }
